@@ -586,7 +586,6 @@ section {
   background: url("../img/me.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
-  margin:5px;
 }
 
 .about .skills-content {
